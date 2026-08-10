@@ -1,0 +1,13 @@
+streamlit>=1.32
+opencv-python-headless
+numpy
+pandas
+matplotlib
+seaborn
+ultralytics
+torch
+Pillow
+streamlit-webrtc==0.45.0
+pyttsx3
+av
+aiortc
