@@ -150,14 +150,9 @@ pyttsx3
 
 ## 👨‍💼 Developed By
 
-**Srishti Bhatnagar**
+**darshan wagh**
 🎓 B.Tech CSE | AI & Computer Vision Enthusiast | Machine Learning & Deep Learning
 
-📧 [srishtibhatnagar051@gmail.com](mailto:srishtibhatnagar051@gmail.com)
-
-🔗 GitHub: [@sriijk](https://github.com/sriijk)
-
-🔗 LinkedIn : [Srishti Bhatnagar](www.linkedin.com/in/srishti-bhatnagar-b59833269)
 
 ---
 
