@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Project Summary
-CrowdGuard AI is an AI-powered real-time crowd monitoring and alert system designed to enhance safety, surveillance, and crowd management using computer vision.
+railflow AI is an AI-powered real-time crowd monitoring and alert system designed to enhance safety, surveillance, and crowd management using computer vision.
 
 ✅ Key highlights:
 - ⚡ Real-time Crowd Detection: Leverages YOLOv8 Nano for fast, efficient people detection on live video streams or uploaded videos.
